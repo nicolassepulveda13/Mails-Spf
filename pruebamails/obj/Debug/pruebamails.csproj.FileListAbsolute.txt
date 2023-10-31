@@ -1,0 +1,11 @@
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\bin\Debug\pruebamails.exe.config
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\bin\Debug\pruebamails.exe
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\bin\Debug\pruebamails.pdb
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.csproj.AssemblyReference.cache
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.csproj.SuggestedBindingRedirects.cache
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.Form1.resources
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.Properties.Resources.resources
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.csproj.GenerateResource.cache
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.csproj.CoreCompileInputs.cache
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.exe
+C:\Users\nsepulveda\Downloads\SPF-Mails-master\pruebamails\obj\Debug\pruebamails.pdb
